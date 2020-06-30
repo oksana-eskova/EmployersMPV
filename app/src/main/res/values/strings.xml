@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Employers2</string>
+    <string name="label_name">Имя:</string>
+    <string name="label_last_name">Фамилия:</string>
+    <string name="label_birthday">Дата рождения:</string>
+    <string name="label_age">Возраст:</string>
+    <string name="label_specialities">Cпециальности:</string>
+</resources>
